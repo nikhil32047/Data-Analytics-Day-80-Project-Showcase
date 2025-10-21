@@ -1,0 +1,85 @@
+End-to-End Data Analytics Projects
+
+🔹 Lesson 1: Retail Sales Dashboard (Power BI)
+===============================================
+Summary:
+A dashboard to visualize sales trends, profits, and regions.
+Steps:
+--------
+Import sales data (Excel/CSV).
+Clean missing and duplicate records.
+Add visuals: total sales, profit by region, monthly trends.
+Add filters for date and category.
+
+Example:
+Retail sales spiked 35% during Diwali in the East zone — found via time filter in Power BI.
+
+Video: Retail Sales Dashboard – Power BI Project
+
+
+🔹 Lesson 2: HR Analytics Dashboard (Tableau / Power BI)
+=======================================================
+Summary:
+Visualizing employee data to understand workforce trends.
+Steps:
+--------
+Import employee data (age, department, attrition).
+Create KPIs: average salary, attrition rate, gender ratio.
+Use slicers to view department-wise insights.
+
+Example:
+IT Department had 15% higher attrition than average — revealed by attrition dashboard.
+
+Video: HR Analytics Dashboard – Tableau Project
+
+
+🔹 Lesson 3: E-Commerce Customer Segmentation
+===============================================
+Summary:
+Use clustering (K-Means) to group customers by behavior.
+Steps:
+---------
+Clean and normalize purchase data.
+Use RFM (Recency, Frequency, Monetary) model.
+Apply K-Means to segment customers.
+Visualize with scatter plots or dashboards.
+
+Example:
+Segment 1 – High value, loyal customers → 22% of base, 70% revenue.
+
+Video: Customer Segmentation in Python – Full Project
+
+
+🔹 Lesson 4: Supply Chain Analytics
+========================================
+Summary:
+Analyze logistics and warehouse efficiency using SQL + Power BI.
+Steps:
+--------
+Import supply data (order date, delivery time, cost).
+Use SQL to calculate average delivery delay.
+Build KPI dashboard in Power BI.
+
+Example:
+Warehouse B had 2-day average delay, affecting 18% of total deliveries.
+
+Video: Supply Chain Analytics in Power BI
+
+
+🔹 Lesson 5: Banking Loan Risk Analysis
+==========================================
+Summary:
+Predict whether a loan applicant will default or not.
+Steps:
+-------
+Clean loan dataset (income, credit score, defaults).
+Perform EDA to find correlations.
+Apply logistic regression.
+Visualize model performance with confusion matrix.
+
+Example:
+Model accuracy: 87%, helping bank reduce bad loans by 12%.
+
+Video: Loan Risk Prediction in Python – Case Study
+
+
